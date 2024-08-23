@@ -1,0 +1,72 @@
+ This is my bookmark source code
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Bookmarks</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <span>
+    <h1 id="HEADING">My Bookmarks</h1>
+  </span>
+  <div class="PRIMARY BOOKMARKS">
+    <h2>PRIMARY BOOKMARKS </h2>
+  </div>
+  <div class="tables">
+    <ul>
+      <li>Google :-
+        <a href="https://www.google.co.in/">Click Hear</a>
+      </li>
+      <li>Youtube :-
+        <a href="https://www.youtube.com/">Click Hear</a>
+      </li>
+      <li>Instagram :-
+        <a href="https://www.instagram.com/">Click Hear</a>
+      </li>
+      <li>Code with harry :-
+        <a href="https://www.codewithharry.com/">Click Hear</a>
+      </li>
+      <li>Gita :-
+        <a href="https://www.mahakavya.com/bhagavad-gita-hindi/#dearflip-df_745/5/" traget=_blank>Click Hear</a>
+      </li>
+    </ul>
+  </div>
+  <div class="s">
+    <h2>
+      Secondary Bookmarks
+    </h2>
+  </div>
+  <div class="tables">
+<ul>
+  <li>
+  Yoodli {It is a communication cotch}:-
+  <a href="https://app.yoodli.ai/">Click Hear</a>
+  </li>
+  <li>
+    Playground {It is Image Generater}:-
+    <a href="https://playgroundai.com/">Click Hear</a>
+  </li>
+</ul>
+  </div>
+  <div>
+  <h1>The is best web sites TO learn touch typing</h1>
+  <ul>
+    <li>Type Racer :- <a href="https://play.typeracer.com/">click hear</a></li>
+    <li>10 fast finger :- <a href="https://10fastfingers.com/typing-test/english">click hear </a></li>
+    <li>Typingtest.com :- <a href="https://www.typingtest.com/">Click hear</a></li>
+  </ul>
+</div>
+<div>
+  <h1>This is my all source code address</h1>
+  <ul>
+    <li>blogpost:- <a href="https://codingvibeswithvishesh.blogspot.com/">click hear</a></li>
+  </ul>
+</div>
+</body>
+
+</html>
